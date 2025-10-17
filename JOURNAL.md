@@ -10,7 +10,7 @@ This is my journal of the design and building process of **GuardEye:AI Powered S
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/567).
 
 
-## 10/17/2025 - Selected components   
+## 10/17/2025 10 PM - Selected components   
 
 Hardware Used- 
 ESP32 CAM WiFi Module
@@ -22,4 +22,17 @@ The circuit was designed using Circuit Designer software, wiring is remaining no
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--afe6da192b8184eaf0d72eccb693065623b2a8c8/image.png)
 
   
+
+## 10/17/2025 11 PM - Done all wirings   
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7e8b8fa773b2069841aee1b2588642f7442a0c31/image.png)
+
+Power Connections
+1) Battery to 7805 Regulator
+2) Input of 7805: Connected to the positive of 9V battery.
+3) Output of 7805: Provides a stable 5V to ESP32-CAM.
+This ensures the ESP32-CAM gets a regulated voltage suitable for stable operation.
+ESP32-CAM Power
+4) 5V pin of ESP32-CAM: Connected to the output of the 7805 regulator.
+5) GND pin of ESP32-CAM: Connected to the common ground from batteries.  
 
