@@ -4,11 +4,11 @@
   This journal is auto generated and updated by Hack Club Blueprint.
   To edit this file, please edit your journal entries on Blueprint.
   ==================================================================
-
+-->
 
 This is my journal of the design and building process of **GuardEye:AI Powered Security System **.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/567).
--->
+
 
 ## 10/17/2025 - Selected components   
 
@@ -18,8 +18,7 @@ HCSR501 PIR Motion Sensor
 MC-38 Wired Magnetic House Security Alarm Sensor for Door and Windows
 9V Original 
 LM7805 IC 5V Positive Voltage Regulator IC
-The circuit was designed using Circuit Designer software, wiring is remaining now. 
-
+The circuit was designed using Circuit Designer software, wiring is remaining now.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--afe6da192b8184eaf0d72eccb693065623b2a8c8/image.png)
 
   
