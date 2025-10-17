@@ -19,6 +19,7 @@ MC-38 Wired Magnetic House Security Alarm Sensor for Door and Windows
 9V Original 
 LM7805 IC 5V Positive Voltage Regulator IC
 The circuit was designed using Circuit Designer software, wiring is remaining now.
+
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--afe6da192b8184eaf0d72eccb693065623b2a8c8/image.png)
 
   
