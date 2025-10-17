@@ -4,11 +4,11 @@
   This journal is auto generated and updated by Hack Club Blueprint.
   To edit this file, please edit your journal entries on Blueprint.
   ==================================================================
--->
+
 
 This is my journal of the design and building process of **GuardEye:AI Powered Security System **.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/567).
-
+-->
 
 ## 10/17/2025 - Selected components   
 
