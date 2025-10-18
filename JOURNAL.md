@@ -4,11 +4,11 @@
   This journal is auto generated and updated by Hack Club Blueprint.
   To edit this file, please edit your journal entries on Blueprint.
   ==================================================================
-
+-->
 
 This is my journal of the design and building process of **GuardEye:AI Powered Security System **.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/567).
--->
+
 
 ## 10/17/2025 10 PM - Selected components   
 
@@ -19,7 +19,6 @@ MC-38 Wired Magnetic House Security Alarm Sensor for Door and Windows
 9V Original 
 LM7805 IC 5V Positive Voltage Regulator IC
 The circuit was designed using Circuit Designer software, wiring is remaining now.
-
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--afe6da192b8184eaf0d72eccb693065623b2a8c8/image.png)
 
   
@@ -36,4 +35,19 @@ This ensures the ESP32-CAM gets a regulated voltage suitable for stable operatio
 ESP32-CAM Power
 4) 5V pin of ESP32-CAM: Connected to the output of the 7805 regulator.
 5) GND pin of ESP32-CAM: Connected to the common ground from batteries.  
+
+## 10/18/2025 - Firmware/Code  
+
+---
+## System Architecture
+1. **ESP32-CAM** captures the image  
+2. The image is encoded and sent to **Imagga API** for content analysis  
+3. The Imagga API responds with detected tags (objects, scenes, etc.)  
+4. The system forwards the image and detected information to the **Telegram bot**  
+5. Telegram bot sends a notification message and image to the configured chat or group  
+
+---
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjkxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--f495744ee36a0c5056991333194f317a1f85f510/image.png)
+
+  
 
