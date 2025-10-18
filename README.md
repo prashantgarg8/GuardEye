@@ -29,3 +29,17 @@ The AI-Powered Security System is a monitoring system that uses the ESP32-CAM an
 2. Create a new bot using `/newbot`  
 3. Save the generated **bot token**  
 4. Get your **chat ID** by messaging your bot and using a Telegram API call
+
+
+BOM- Total Estimate ≈ ₹926 (INR) or ≈$11 (USD) using Robocraze
+| SN | Name                                                 | Cost (USD) | Cost (INR) | Qty |
+| -- | ---------------------------------------------------- | ---------- | ---------- | --- |
+| 1  | GL12 840 Points Solderless Breadboard                | $0.63      | ₹53        | 1   |
+| 2  | Male to Female Jumper Wires (20 cm) 40 pcs           | $0.46      | ₹39        | 1   |
+| 3  | LM7805 IC – 5 V Positive Voltage Regulator IC        | $0.22      | ₹18        | 2   |
+| 4  | 9 V Battery Snap Connector (Pack of 5)               | $0.41      | ₹34        | 1   |
+| 5  | 9 V Original HW High-Quality Battery                 | $0.58      | ₹48        | 2   |
+| 6  | MC-38 Wired Magnetic House Security Alarm Sensor     | $0.51      | ₹42        | 1   |
+| 7  | HCSR501 PIR Motion Sensor (Passive Infrared Sensor)  | $0.77      | ₹63        | 1   |
+| 8  | ESP32 CAM WiFi Module with OV2640 Camera Module 2 MP | $7.66      | ₹629       | 1   |
+
