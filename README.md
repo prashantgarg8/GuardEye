@@ -19,3 +19,13 @@ The AI-Powered Security System is a monitoring system that uses the ESP32-CAM an
 5. Telegram bot sends a notification message and image to the configured chat or group  
 
 ---
+#### Imagga
+1. Visit [https://imagga.com](https://imagga.com)  
+2. Create an account and generate an API key and secret  
+3. Use these credentials in your ESP32-CAM code to authorize Imagga requests  
+
+#### Telegram
+1. Open Telegram and search for **@BotFather**  
+2. Create a new bot using `/newbot`  
+3. Save the generated **bot token**  
+4. Get your **chat ID** by messaging your bot and using a Telegram API call
